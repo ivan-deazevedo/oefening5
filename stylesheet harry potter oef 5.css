@@ -1,0 +1,35 @@
+/* Algemene opmaak */
+body{
+    background-color: blanchedalmond;
+}
+h1{
+    color: #860f0f;
+}
+h2{
+    color: #860f0f;
+}
+/* Header */
+header{
+    width: 90%;
+    background-color: goldenrod;
+    margin: 10px 40px;
+    border: solid 3px #860f0f;
+}
+header img{
+    width: 250px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+}
+/* Main */
+main{
+    width: 90%;
+    background-color: goldenrod;
+    margin: 10px 40px;
+    border: solid 3px #860f0f;
+}
+main iframe{
+    width: 95%;
+    display: block;
+    margin-left: 20px;
+    margin-bottom: 80px;
+}
