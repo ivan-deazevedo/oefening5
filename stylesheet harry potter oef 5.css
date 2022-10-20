@@ -1,12 +1,15 @@
 /* Algemene opmaak */
 body{
     background-color: blanchedalmond;
+    font-family: Arial,"Arial Black",sans-serif;
 }
 h1{
     color: #860f0f;
+    font-family: "Times New Roman",serif;
 }
 h2{
     color: #860f0f;
+    font-family: "Times New Roman",serif;
 }
 /* Header */
 header{
